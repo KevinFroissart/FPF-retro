@@ -13,7 +13,7 @@ Règles :
 * date - 🙂/😡 - anecdote
 * 28 Avril: Auto formation docker 🙂. Puis bonne gestion des Epics et des issues.
 * 28 - 30 Avril: Grosse difficulté pour lier le projet a une base de donnée 😡
-* tout au long du sprint mon ordinateur ne fonctionne pas -😡- il est trop vieux pour lancer quoi que ce soit et ram trop. Il en est de même pour moi, Valentin)
+* tout au long du sprint mon ordinateur ne fonctionne pas -😡- il est trop vieux pour lancer quoi que ce soit et ram trop. Il en est de même pour moi, Valentin.
 * 29 avril -😡- le porteur de projet demande beaucoup trop de fonctionnalité
 * 27 avril - 🙂 - réflexion de groupe sur les technologies à utiliser en fonction des besoins
 * tout au long du sprint - 😡 - très peu d'interactions avec le porteur de projet --> manque d'informations sur ce qu'on devait faire
