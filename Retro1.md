@@ -28,7 +28,6 @@ Règles :
 ## Relation avec le porteur de projet
 
 ## Comment savoir si ça c'est amélioré
-* 
 * Nombre de réunions qui augmente
 * Documents transférés
 * Des demandes précises pour le développement
