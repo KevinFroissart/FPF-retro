@@ -22,6 +22,10 @@ Règles :
 *29 avril -  🙂 - Première vrai prise de contact avec le porteur de projet, nous permettant de vraiment avancer sur le projet
 *Tout au long du sprint - 😡 - relecture/recherche des documentations
 * Bonne communication dans le groupe
+* 27 avril - 🙂 - Installation de l'environnement de travail - difficultés à s'y retrouver entre le cmd, wsl et unbuntu subsys pour l'utilisation de npm et mvn
+* 28 avril - 😡 - déploiement du site avec deliverous - le git est groupe-9 et le nom de domaine groupe9, je me suis perdu entre les deux dans les fichier de configuration et yaml.
+* 29 avril - 🙂 - mise en place des premières pages html et d'un formulaire de contact - le js et php semblent fonctionner correctement, les mails ne s'envoient pas pour autant
+* 30 avril - 😡 - malade ....
 
 # Regroupement
 
